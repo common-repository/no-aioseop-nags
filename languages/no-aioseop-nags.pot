@@ -1,0 +1,265 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: No All in one SEO Notifications - STOP nagging me\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-24 19:00+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: no-aioseop-nags\n"
+
+#: no-aioseop-nags.php:826
+msgid ""
+" But now -since Version 2.7., we are as well supporting desperate YOAST Seo "
+"users in their search of a cleaner admin area"
+msgstr ""
+
+#: no-aioseop-nags.php:838
+msgid ""
+" It is a great plugin, and we love it. BUT it is enough to mention it once "
+"that there are premium versions. "
+msgstr ""
+
+#: no-aioseop-nags.php:709 no-aioseop-nags.php:773
+msgid "<- Check to block the nagging"
+msgstr ""
+
+#: no-aioseop-nags.php:732
+msgid "<- Check to disable AIOSEO in the WP-Adminbar"
+msgstr ""
+
+#: no-aioseop-nags.php:804
+msgid "<- Check to use your custom css"
+msgstr ""
+
+#: no-aioseop-nags.php:763 no-aioseop-nags.php:775
+msgid "<- NO NEED for this. "
+msgstr ""
+
+#: no-aioseop-nags.php:719 no-aioseop-nags.php:743 no-aioseop-nags.php:780
+#: no-aioseop-nags.php:791
+msgid "<- Please uncheck this."
+msgstr ""
+
+#: no-aioseop-nags.php:37 no-aioseop-nags.php:43
+msgid "<b>NO NAGS</b> from \"All in one SEO\""
+msgstr ""
+
+#: no-aioseop-nags.php:56
+msgid "<b>Support</b>"
+msgstr ""
+
+#: no-aioseop-nags.php:43
+msgid ""
+"<span class=\"dashicons-superhero dashicons\"   style=\"color: rgb(176, 120, "
+"184);\"></span> <b>NO NAGS</b> from \"All in one SEO\""
+msgstr ""
+
+#: no-aioseop-nags.php:37
+msgid ""
+"<span class=\"dashicons-superhero dashicons\"  style=\"color: rgb(176, 120, "
+"184);\"></span> <b>NO NAGS</b> from \"All in one SEO\""
+msgstr ""
+
+#: no-aioseop-nags.php:55
+msgid ">> Settings"
+msgstr ""
+
+#: no-aioseop-nags.php:827
+msgid ""
+"@YOAST: We all know, that there is a premium version, but still think it is "
+"enough to mention it once and NOT cluttering the while backend with "
+"advertising! "
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A simple plugin, that stops the abusive admin area spam. And frees as well "
+"the ability to save category descriptions."
+msgstr ""
+
+#: no-aioseop-nags.php:850
+msgid "Add your CSS here"
+msgstr ""
+
+#: no-aioseop-nags.php:883
+msgid ""
+"And it does not interfer with the functions of your \"All in One SEO - Plugin"
+"\"  "
+msgstr ""
+
+#: no-aioseop-nags.php:878
+msgid ""
+"And it does not interfer with the functions of your \"YOAST SEO - Plugin\"  "
+msgstr ""
+
+#: no-aioseop-nags.php:839
+msgid ""
+"And there IS NO REASON to block functions, like e.g. the editing of Category "
+"Descriptions. "
+msgstr ""
+
+#: no-aioseop-nags.php:851
+msgid "Be aware, that THIS could cause damage to your wp-admin area"
+msgstr ""
+
+#: no-aioseop-nags.php:708
+msgid "Block the premium ads?"
+msgstr ""
+
+#: no-aioseop-nags.php:810
+#, php-format
+msgid "Click %1$shere%2$s to add your CSS"
+msgstr ""
+
+#: no-aioseop-nags.php:452
+msgid "Click here to STOP - <br>the Upgrade-SPAM"
+msgstr ""
+
+#: no-aioseop-nags.php:413
+msgid "Click to disable"
+msgstr ""
+
+#: no-aioseop-nags.php:808
+msgid "Custom css is enabled. "
+msgstr ""
+
+#: no-aioseop-nags.php:500 no-aioseop-nags.php:529
+msgid "Disable "
+msgstr ""
+
+#: no-aioseop-nags.php:730
+msgid "Disable SEO menu in WP-Admin Bar?"
+msgstr ""
+
+#: no-aioseop-nags.php:412
+msgid "Disable this menu?"
+msgstr ""
+
+#: no-aioseop-nags.php:68
+msgid "Donate?"
+msgstr ""
+
+#. Author of the plugin
+msgid "Eilert Behrends"
+msgstr ""
+
+#: no-aioseop-nags.php:855
+msgid "Examples:"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://kontur.us"
+msgstr ""
+
+#: no-aioseop-nags.php:802
+msgid "Load custom CSS?"
+msgstr ""
+
+#. Name of the plugin
+msgid "No All in one SEO Notifications - STOP nagging me"
+msgstr ""
+
+#: no-aioseop-nags.php:769
+msgid "No YOAST premium nags?"
+msgstr ""
+
+#: no-aioseop-nags.php:882
+msgid ""
+"Note: This Plugin does only load CSS to block and unloads a pop-up script.  "
+msgstr ""
+
+#: no-aioseop-nags.php:877
+msgid "Note: This Plugin does only load CSS to block premium advertising.  "
+msgstr ""
+
+#: no-aioseop-nags.php:1021
+msgid "Notice"
+msgstr ""
+
+#: no-aioseop-nags.php:853
+msgid ""
+"Only use save CSS here, and only use it, if you know, what you are doing:"
+msgstr ""
+
+#: no-aioseop-nags.php:69
+msgid "Rate this Plugin"
+msgstr ""
+
+#: no-aioseop-nags.php:815 no-aioseop-nags.php:868
+msgid "Save Settings"
+msgstr ""
+
+#: no-aioseop-nags.php:687
+msgid "Settings"
+msgstr ""
+
+#: no-aioseop-nags.php:828
+msgid "So this plugin will clean things a little for us.  "
+msgstr ""
+
+#: no-aioseop-nags.php:840
+msgid "So this will clean things a little for us.  "
+msgstr ""
+
+#: no-aioseop-nags.php:858
+msgid "Stop all dismissible banners:"
+msgstr ""
+
+#: no-aioseop-nags.php:863
+msgid "Stop jetpack from annoying you with upgrade-ads:"
+msgstr ""
+
+#: no-aioseop-nags.php:680 no-aioseop-nags.php:685
+msgid "Stop the abusive \"All in One SEO\" Admin Area messages"
+msgstr ""
+
+#: no-aioseop-nags.php:500 no-aioseop-nags.php:529
+msgid "the Pro-Upgrade Nags"
+msgstr ""
+
+#: no-aioseop-nags.php:740
+msgid "The SEO admin bar menu is disabled "
+msgstr ""
+
+#: no-aioseop-nags.php:825
+msgid ""
+"This simple Plugin, was originally made for the \"All in One SEO\" - Plugin."
+msgstr ""
+
+#: no-aioseop-nags.php:837
+msgid ""
+"This simple Plugin, will clean most of the abusive admin Spam from the \"All "
+"in One SEO\" - Plugin."
+msgstr ""
+
+#: no-aioseop-nags.php:849
+msgid "Want to clean more?"
+msgstr ""
+
+#: no-aioseop-nags.php:716 no-aioseop-nags.php:761 no-aioseop-nags.php:779
+msgid "We are blocking the nagging "
+msgstr ""
+
+#: no-aioseop-nags.php:757
+msgid "YOAST settings"
+msgstr ""
+
+#: no-aioseop-nags.php:720 no-aioseop-nags.php:744
+msgid "You are not using All in one SEO. "
+msgstr ""
+
+#: no-aioseop-nags.php:763 no-aioseop-nags.php:781 no-aioseop-nags.php:792
+msgid "You are not using YOAST SEO. "
+msgstr ""
+
+#: no-aioseop-nags.php:775
+msgid "You are not using YOAST3 SEO. "
+msgstr ""
